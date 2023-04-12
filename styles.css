@@ -13,6 +13,9 @@ html {
   font-size: 62.5%; /* 1rem = 10px */
   scroll-behavior: smooth;
 }
+[id] {
+  scroll-margin-top: 4.425rem;
+}
 @media (max-width: 768px) {
   html {
     font-size: 56.25%; /* 1rem = 9px */
